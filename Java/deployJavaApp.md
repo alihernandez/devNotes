@@ -74,7 +74,15 @@ mvn clean package
 # References
 Full guide:
 https://code.visualstudio.com/docs/java/java-webapp
+
+
 Maven Download & Insall guide:
 https://www.youtube.com/watch?v=uZ1yNWKd7zM
+
+
 WAR file:
 https://iamvickyav.medium.com/azure-devops-ci-cd-deploying-war-file-into-tomcat-running-in-azure-app-service-b173e89389ec
+
+
+Maven:
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
