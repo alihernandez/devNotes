@@ -27,3 +27,5 @@ https://fontawesome.com/icons/codepen?s=brands
 __Working with images__
 https://www.oberlo.com/blog/image-resizer
 
+__Portfolio Inspiration__
+https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw
