@@ -21,3 +21,6 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/#basics-and-terminology
 
 https://fontawesome.com/icons/codepen?s=brands
 
+__Working with images__
+https://www.oberlo.com/blog/image-resizer
+
