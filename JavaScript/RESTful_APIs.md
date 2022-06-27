@@ -1,0 +1,2 @@
+# RESTful APIs
+	REST- REpresentational State Transfer is a software writing style that defines a set of rules to be used for creating Web services. Lets client side systems access and manipulate textual representations of Web resources by using predefined set of stateless operations. Basically you ask the server for specific data or ask to save some data and then the server responds accordingly. (There's an endpoint that the server is waiting to get a request, we connect to endpoint and send in some data about us and the server responds witht the correct response).
